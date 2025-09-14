@@ -45,6 +45,7 @@ D (≥50)
 
 E (<50)
 
+---
 
 📈 Contoh Output
 
@@ -67,7 +68,7 @@ UAS: 100
 Daftar Mahasiswa Informatika Peserta PBO
 No. NIM          Nama    Tgl Lahir       Uts1    Uts2    Uas     Final   Nilai
 ---------------------------------------------------------------------------------------------------
-1.235314098      ADI        24      	60.00   70.00   80.00   71.00    B
+1.235314098      ADI        24      	  60.00   70.00   80.00   71.00    B
 2.235314099      EUGENIUS   22          90.00   90.00   100.00  94.00    A
 
 Rata-rata Final: 82.50
@@ -78,6 +79,8 @@ Nama: EUGENIUS
 Tanggal Lahir: 22
 Final: 94.0
 Nilai: A
+
+---
 
 👨‍💻 Pengembang
 MBAHSINGO22 
